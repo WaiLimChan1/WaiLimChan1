@@ -1,4 +1,4 @@
-<h1>Hi, I'm Wai Lim! <br/><a href="https://github.com/WaiLimChan1">Programmer</a>, <a href="https://www.linkedin.com/in/wailimchan/">Computer Science Student</a>, <a href="https://wailimchan.itch.io/">Game Developer</a>, <a href="https://www.youtube.com/@WaiLimChan/videos">YouTuber</a></h1>
+<h1>Hi, I'm Wai Lim! <br/><a href="https://github.com/WaiLimChan1">Programmer</a>, <a href="https://www.linkedin.com/in/wailimchan/">Software Engineer</a>, <a href="https://wailimchan.itch.io/">Game Developer</a>, <a href="https://www.youtube.com/@WaiLimChan/videos">YouTuber</a></h1>
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
